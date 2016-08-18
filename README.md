@@ -45,18 +45,22 @@ ActionBarPage
 -
 -
 
-Activity Transition	
+Activity Transition
 
+	- Fade in animation on Activity Transition : http://stackoverflow.com/questions/18475826/fade-in-animation-on-activity-transition
 	
-- Fade in animation on Activity Transition : http://stackoverflow.com/questions/18475826/fade-in-animation-on-activity-transition
-- transition animation from one activity to another activity :http://forums.xamarin.com/discussion/27605/transition-animation-from-one-activity-to-another-activity
-- [Xamarin] 筆記一下Android 中頁面切換得過場動畫(轉場特效):http://no2don.blogspot.com/2015/08/xamarin.html
-
+	- transition animation from one activity to another activity :http://forums.xamarin.com/discussion/27605/transition-animation-from-one-activity-to-another-activity
+	
+	- [Xamarin] 筆記一下Android 中頁面切換得過場動畫(轉場特效):http://no2don.blogspot.com/2015/08/xamarin.html
+	
 -
 -
 -
+	
 	
 AndHUD
+	- AndHUD Getting Started : https://components.xamarin.com/gettingstarted/andhud
 	
-- AndHUD Getting Started : https://components.xamarin.com/gettingstarted/andhud
-- Forum › Xamarin Platform › Xamarin.Forms › Show Progress Dialog : http://forums.xamarin.com/discussion/29086/show-progress-dialog-andhud-btprogress
+	- Forum › Xamarin Platform › Xamarin.Forms › Show Progress Dialog : http://forums.xamarin.com/discussion/29086/show-progress-dialog-andhud-btprogress
+	
+
